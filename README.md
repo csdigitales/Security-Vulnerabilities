@@ -9,7 +9,7 @@ El objetivo de estas normas es garantizar que Internet funcione de manera intero
 Una de estas normas es la RFC 9116, que define el estándar para el archivo security.txt: un archivo de texto que los sitios web pueden alojar para informar a investigadores de seguridad cómo reportar vulnerabilidades de forma responsable. Este archivo debe ubicarse en una ruta estandarizada (por ejemplo: https://example.com/.well-known/security.txt) y debe contener información clara de contacto, plazos, mecanismos de cifrado y políticas de divulgación, con el fin de fomentar una gestión proactiva y transparente de incidentes de seguridad.
 
 # Cuáles son los beneficios de la anticipación
-Prevenir una acción que podría basarse en el impulso, bien intencionado, pero desinformado de quien detecta una vulnerabilidad, es imperante, ya que nadie como la empresa, puede definir de mejor manera, que ella misma, la vía discreta y adecuada para recibir este tipo de reportes.
+Prevenir una acción impulsiva —aunque bien intencionada— por parte de quien detecta una vulnerabilidad es fundamental, ya que nadie mejor que la propia empresa para definir la vía más discreta y adecuada para recibir este tipo de reportes.
 
 # Cómo se Beneficia la empresa con esta buena práctica.
 Facilita la detección temprana de fallos antes de que sean explotados.
