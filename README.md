@@ -51,9 +51,9 @@ Expires: 2025-12-31T23:59:00.000
 
 # Navegación en el repositorio
 📁 .well-known/
-└── security.txt → Archivo que debe ser ubicado en el directorio Public html, carpeta .well-known/este archivo y formato normado permite que sea detectado por motores de búsqueda. Contiene la dirección de cada campo a cumplir, según la norma. Archivo incluido en carpeta Canónica.
+	└── security.txt → Archivo que debe ser ubicado en el directorio Public html, carpeta .well-known/este archivo y formato normado permite 	que sea detectado por motores de búsqueda. Contiene la dirección de cada campo a cumplir, según la norma. Archivo incluido en carpeta 		Canónica.
 📁 encryption/
-└── Archivo.asc.pub → contiene una clave criptográfica que se utiliza para proteger la privacidad y la autenticiddad de la información. Al copiar el enlace, se abrira el explorador para salvar el archivo.
+	└── Archivo.asc.pub → contiene una clave criptográfica que se utiliza para proteger la privacidad y la autenticiddad de la información. 	Al copiar el enlace, se abrira el explorador para salvar el archivo.
 📁 policy/
 └── Index.html → Archivo ubicado en la carpeta politica-coordinada-vulnerabilidades. Contiene un código html que permite su publicación y visualización. Al abrirlo en el navegador contiene la política resumida y simple, fijada por la empresa para, coordinar la recepción de reporte vulnerabilidades.
 📁 agradecimientos/
@@ -76,7 +76,7 @@ Expires: 2025-12-31T23:59:00.000
   6 Fecha de expiración del archivo. El cliente nos informa la fecha que estime conveniente que es un campo obligatorio.
 
 # Dónde ubicar los archivos del repositorio.
- 📁 public_html/
+📁 public_html/
 ├── 📁 .well-known/
 │   └── canonical/
 │       └── security.txt                 ← Archivo principal requerido por RFC 9116
@@ -90,7 +90,8 @@ Expires: 2025-12-31T23:59:00.000
 │   └── pgp-key.asc                      ← Clave pública PGP (campo Encryption)
 └── 📁 paso-a-paso/
     ├── formulario-cliente.html         ← Recolección de datos necesarios para armar el archivo
-    └── orden-de-servicio.html          ← Detalles del servicio 
+    └── orden-de-servicio.html          ← Detalles del servicio que contratan (claro y no intimidante)
+
 
 
   
