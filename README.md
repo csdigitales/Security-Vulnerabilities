@@ -21,6 +21,7 @@ El archivo puede ser detectado por herramientas automatizadas de monitoreo de se
 La adopción del estándar RFC 9116, fortalece la seguridad técnica de una empresa,  también envía un mensaje claro de compromiso con la transparencia y la ética digital.
 
 
+
 # Qué es el Bug Bounty
 Es un programa de recompensas y una estrategia de ciberseguridad que permite recibir reportes de errores o vulnerabilidades a cambio de una compensación económica, conforme a la política establecida por la empresa.
 Esta política establece el mecanismo para las vulnerabilidades que califican para recompensa, los casos excluidos, así como las condiciones, precios y plazos en que se otorgan dichas compensaciones.
