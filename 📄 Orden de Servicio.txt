@@ -1,0 +1,69 @@
+📄 Orden de Servicio N° [____]
+
+
+Proveedor
+Nombre Comercial: Cs Digitales
+Representante: Soraya Silva
+RUT: 12.466.580-9
+Correo electrónico: finanzas@csdigitales.cl
+Cuenta Corriente: Banco de Chile – Cta. Cte. N° 4600600
+Factura Electrónica: Sí
+
+Cliente
+Razón Social / Nombre: _______________________________________
+RUT: ____________________
+Representante: ____________________
+Correo de contacto: ____________________
+Teléfono: ____________________
+
+✅ Selección de Servicios Contratados
+Servicio	Descripción	
+Servicio Único	Evaluación, desarrollo e implementación de security.txt conforme a RFC 9116. Valor: $250.000 + IVA. Entrega en 72 hrs.	☐ Sí  ☐ No
+
+Suscripción Mensual	Mantenimiento y actualización preventiva del archivo security.txt. Valor mensual: $7.000 + IVA. Incluye 1 actualización mensual y monitoreo.	☐ Sí  ☐ No
+
+🛠 Detalle del Servicio Único
+
+Generación de Códigos y Archivos Técnicos
+
+security.txt, scs.pub (opcional), canonical.txt
+Redacción de Contenidos
+Policy, Acknowledgments, Hiring
+Preferred-Languages, Expires, contacto válido
+Recopilación de Información
+Misión, visión, valores, contacto, idioma, vencimiento
+Implementación Técnica
+Archivos en public_html
+Validación en ruta /.well-known/security.txt
+Validación Final
+Sintaxis, enlaces y cumplimiento RFC 9116
+
+🔄 Detalle de la Suscripción Mensual (Opcional)
+
+Mantenimiento y actualización preventiva del archivo security.txt, incluye:
+Dos actualizaciones mensuales, si hay cambios menores (contacto, idioma, política).
+Envío automatizado de nota al cliente, mensualmente, servicio ok y fecha límite del archivo security.txt
+Incluye monitoreo, alertas y actualizaciones programadas.
+Condiciones: Suscripción renovable mes a mes. Cancelación con aviso previo de 15 días.
+
+💵 Condiciones de Pago
+
+Valor único del servicio: $250.000 + IVA
+Valor suscripción mensual (si aplica): $7.000 + IVA
+Forma de pago: Transferencia bancaria
+Banco: Banco de Chile
+Cta. Cte.: 4600600
+Titular: Soraya Silva – RUT: 12.466.580-9
+Factura electrónica emitida al cliente
+Plazo de pago: Máximo 30 días desde emisión de factura
+
+Plazo de entrega del servicio único: 72 horas desde recepción completa de especificaciones del cliente
+
+🖊 Confirmación de Aceptación
+Firma cliente: ___________________________
+Nombre: ____________________
+Fecha: _____ / _____ / 2025
+
+Firma Cs Digitales: ______________________
+Fecha: _____ / _____ / 2025
+
