@@ -1,0 +1,72 @@
+🧑‍💻 1. Generación de Códigos y Archivos Técnicos
+
+Corresponde al desarrollo de los archivos requeridos por el estándar y buenas prácticas en ciberseguridad:
+security.txt: archivo principal de seguridad (estructura y sintaxis según RFC 9116).
+scs.pub: clave pública para encriptación de comunicaciones seguras.
+canonical.txt: archivo con URL base para referencia de ubicación del archivo security.txt.
+
+✍️ 2. Redacción Profesional de Contenidos
+
+Redacción clara, alineada a los valores y estilo del cliente, para comunicar de forma efectiva a investigadores de seguridad y otros actores externos.
+Policy: documento que describe políticas de seguridad y actuación.
+Acknowledgments: formato para reconocer contribuciones de terceros.
+Hiring: texto para convocar profesionales interesados en roles de ciberseguridad.
+Definición de Preferred-Languages, Expires, y contacto válido para el archivo security.txt.
+
+📦 3. Recopilación y Organización de Información
+
+Análisis y recopilación de datos entregados por el cliente:
+Contacto de seguridad válido (correo electrónico u otro canal).
+Idioma(s) preferido(s) para la comunicación.
+Misión, visión y valores para uso en los textos redactados.
+Fecha de vencimiento del archivo security.txt.
+
+🗂️ 4. Ubicación e Implementación en el Servidor
+Organización final y entrega técnica:
+
+Colocación y validación de los archivos generados dentro de la carpeta public_html del sitio web del cliente.
+Asegurar cumplimiento de requisitos de ubicación (ruta /.well-known/security.txt).
+Prueba de acceso público y verificación de visibilidad externa.
+
+✅ 5. Validación Técnica Final
+
+Revisión de sintaxis y formato según especificaciones del estándar RFC 9116.
+Verificación del funcionamiento de los enlaces, correos y estructuras del archivo.
+
+
+🔄 6. Mantenimiento y Actualización del Archivo security.txt
+
+Cs Digitales ofrece un servicio de suscripción mensual que garantiza la vigencia, precisión y cumplimiento continuo del archivo security.txt, alineado con el estándar RFC 9116. Este servicio incluye:
+
+Monitoreo y seguimiento de la fecha de expiración declarada en el archivo.
+Notificación preventiva al cliente antes del vencimiento para evitar interrupciones en la publicación del archivo.
+Actualización de datos (contacto, enlaces, idiomas, políticas) ante cambios internos en la organización.
+Validación técnica periódica para asegurar cumplimiento normativo y visibilidad pública correcta.
+Reemisión del archivo firmado, si se requiere cambio de clave o estructura.
+
+🛡️ Este servicio permite a las organizaciones mantener su compromiso con las buenas prácticas de ciberseguridad, sin preocuparse por los aspectos técnicos o de vencimiento.
+
+Entrega técnica:
+Si el cliente no cuenta con una clave pública para cifrado, Cs Digitales puede generarla mediante GPG y entregar la clave (scs.pub) junto con su huella digital, para su uso exclusivo en canales de comunicación pública relacionados con el archivo security.txt.
+
+7. Precio Evaluacion, desarrollo e implementación.
+
+Valor  único del servicio: $250.000 + IVA
+Forma de pago: Transferencia bancaria, Banco de Chile, Cta. Cte. 4600600, rut 124665809, destinatario Soraya Silva
+Factura electrónica
+Plazo de pago: Máximo 30 días desde emisión de factura
+Plazo de entrega: 72 horas desde recepción completa de especificaciones del cliente
+
+🔁 Suscripción mensual (opcional)
+
+Mantenimiento y actualización preventiva del archivo security.txt, incluye:
+Dos actualizaciones mensuales, si hay cambios menores (contacto, idioma, política).
+Monitoreo automático o manual del vencimiento del archivo.
+Envío automatizado al cliente, mensualmente, servicio ok y fecha límite del archivo security.txt
+Actualización del archivo si hay cambios menores (contacto, idioma, política).
+Incluye monitoreo, alertas y actualizaciones programadas.
+
+Valor mensual: $7.000 + IVA
+
+
+
