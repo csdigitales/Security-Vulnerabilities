@@ -35,24 +35,41 @@ El servicio incluye la tercerización completa del proceso: diseño, redacción,
 
 # Cs Digitales hace lo siguiente:
 Generación de los siguientes archivos y códigos
-    Encrytion (scs.pub)
-    Policy
-    Acknowledgments
-    Hiring
-    Canonical (txt)
-Recopilación de la siguiente información para la confección del archivo security.txt
-    Valid contact 
-    Preferred-Languages
-    Expires
-    Policy (misión, visión, valores empresa cliente)
-Organización de archivos
-    En carpeta Public_html en el servidor del cliente
-Redacción de contenidos
-    Policy
-    Acknowledgments
-    Hiring
-Validación
-    Archivo security.txt
+*Encrytion (scs.pub)
+  
+*Policy
+
+*Acknowledgments
+
+*Hiring
+
+*Canonical (txt)
+
+*Recopilación de la siguiente información para la confección del archivo security.txt
+ 
+*Valid contact 
+   
+*Preferred-Languages
+
+*Expires
+
+*Policy (misión, visión, valores empresa cliente)
+
+*Organización de archivos
+ 
+*En carpeta Public_html en el servidor del cliente
+
+*Redacción de contenidos
+
+*Policy
+
+*Acknowledgments
+ 
+*Hiring
+ 
+*Validación
+
+*Archivo security.txt
   
 Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
