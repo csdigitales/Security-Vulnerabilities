@@ -90,11 +90,10 @@ public_html/
 │   └── index.html                # Información sobre colaboración o vacantes
 └── paso-a-paso/
     ├── formulario-cliente.html   # Recopilación de datos del cliente
-    └── orden-de-servicio.html    # Detalles del alcance del servicio
+    ├── Orden de compra Servicio   # Se enviará al cliente vía correo eléctrónico
 
-Formulario
+Formulario para ser informado por el cliente
 https://csdigitales.cl/documentos-cliente/formulario.html
-
 
 # Cómo solicitar el servicio
 contacto@csdigitales.cl 
