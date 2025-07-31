@@ -16,9 +16,13 @@ Prevenir una acción impulsiva —aunque bien intencionada— de quien detecta u
 *La imagen de la empresa se ve favorablemente beneficiada local e internacionalmente.
 
 *Es un paso compatible con marcos normativos como ISO/IEC 27001, NIST y GDPR.
+
 *Minimiza el riesgo de incidentes costosos al facilitar reportes responsables.
+
 *Centralización y dirección adecuada de la información.
+
 *El archivo puede ser detectado por herramientas automatizadas de monitoreo de seguridad.
+
 *La adopción del estándar RFC 9116, fortalece la seguridad técnica de una empresa,  también envía un mensaje claro de compromiso con la transparencia y la ética digital.
 
 # Qué es el Bug Bounty
