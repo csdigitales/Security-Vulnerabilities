@@ -81,7 +81,7 @@ https://csdigitales.cl/documentos-cliente/orden-de-servicio.html
 
 b
 Llenar y enviar archivo de Orden de Servicio (Forma 1) a:
-contacto@csdigitales.cl 
+finanzas@csdigitales.cl 
 
 c
 Formulario html de operaciones 
