@@ -12,7 +12,9 @@ Prevenir una acción impulsiva —aunque bien intencionada— de quien detecta u
 
 # Cómo se beneficia la empresa con esta buena práctica.
 *Facilita la detección temprana de fallos antes de que sean explotados.
+
 *La imagen de la empresa se ve favorablemente beneficiada local e internacionalmente.
+
 *Es un paso compatible con marcos normativos como ISO/IEC 27001, NIST y GDPR.
 *Minimiza el riesgo de incidentes costosos al facilitar reportes responsables.
 *Centralización y dirección adecuada de la información.
