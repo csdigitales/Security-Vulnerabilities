@@ -2,8 +2,6 @@
 Este repositorio tiene como objetivo ser un modelo base para la implementación de las vias de recepción de reportes de vulnerabilidades enviados por técnicos,  empresas, personas naturales e investigadores en ciberseguridad,  conforme al estándar RFC 9116 del IETF mediante el archivo security.txt. 
 
 
-
-
 # Fundamentos del Proyecto y definición
 El IETF (Internet Engineering Task Force) es una organización internacional abierta que desarrolla y publica los estándares técnicos fundamentales de Internet, como los protocolos utilizados por los sitios web (HTTP, HTTPS, DNS, TCP/IP, TLS, entre otros).
 Estos estándares se presentan en documentos llamados RFCs (Request for Comments), los cuales están disponibles generalmente en archivos .txt y definen con precisión el funcionamiento de diversos aspectos de la red y los servicios web.
@@ -11,7 +9,7 @@ El objetivo de estas normas es garantizar que Internet funcione de manera intero
 Una de estas normas es la RFC 9116, que define el estándar para el archivo security.txt: un archivo de texto que los sitios web pueden alojar para informar a investigadores de seguridad cómo reportar vulnerabilidades de forma responsable. Este archivo debe ubicarse en una ruta estandarizada (por ejemplo: https://example.com/.well-known/security.txt) y debe contener información clara de contacto, plazos, mecanismos de cifrado y políticas de divulgación, con el fin de fomentar una gestión proactiva y transparente de incidentes de seguridad.
 
 # Cuáles son los beneficios de la anticipación
-Prevenir una acción impulsiva —aunque bien intencionada— por parte de quien detecta una vulnerabilidad es fundamental, ya que nadie mejor que la propia empresa para definir la vía más discreta y adecuada para recibir este tipo de reportes.
+Prevenir una acción impulsiva —aunque bien intencionada— de quien detecta una vulnerabilidad es fundamental, ya que nadie mejor que la propia empresa para definir la vía más discreta y adecuada para recibir este tipo de reportes.
 
 # Cómo se beneficia la empresa con esta buena práctica.
 *Facilita la detección temprana de fallos antes de que sean explotados.
@@ -28,26 +26,30 @@ Esta política establece el mecanismo para las vulnerabilidades que califican pa
 La política se incluye dentro del archivo security.txt, y su redacción es elaborada por CS Digitales, de acuerdo a las necesidades del cliente, previa consulta y validación directa.
 
 # Qué soluciona Cs Digitales
-Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116.
 El servicio incluye la tercerización completa del proceso: diseño, redacción, ubicación, validación, estandarización y publicación del archivo security.txt, cumpliendo con los requisitos técnicos y estratégicos definidos por la norma.
 
-# Cómo solicitar el servicio
-contacto@csdigitales.cl 
-
-Expresa tu interés y tus datos de contacto
-security@csdigitales.cl
-
-Una vez de acuerdo, en esta dirección se reciben datos que permiten la recopilación previa de información de interés mutuo, con motivo de la habilitación de security.txt.
-
-# Estructura según normativa del archivo security.txt
-Contact: mailto:security@csdigitales.cl
-Encryption: https://csdigitales.cl/encryption
-Policy: https://csdigitales.cl/politica-coordinada-vulnerabilidades
-Acknowledgments: https://csdigitales.cl/agradecimientos
-Hiring: https://csdigitales.cl/trabaja-con-nosotros
-Preferred-Languages: es, en
-Canonical: https://csdigitales.cl/.well-known/security.txt
-Expires: 2025-12-31T23:59:00.000
+# Cs Digitales hace lo siguiente:
+Generación de los siguientes archivos y códigos
+    Encrytion (scs.pub)
+    Policy
+    Acknowledgments
+    Hiring
+    Canonical (txt)
+Recopilación de la siguiente información para la confección del archivo security.txt
+    Valid contact 
+    Preferred-Languages
+    Expires
+    Policy (misión, visión, valores empresa cliente)
+Organización de archivos
+    En carpeta Public_html en el servidor del cliente
+Redacción de contenidos
+    Policy
+    Acknowledgments
+    Hiring
+Validación
+    Archivo security.txt
+  
+Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
 # Navegación en el repositorio
 public_html/
@@ -56,7 +58,7 @@ public_html/
 │       → Archivo que debe ser ubicado en el directorio public_html, carpeta .well-known/
 │         Este archivo y formato normado permite que sea detectado por motores de búsqueda.
 │         Contiene la dirección de cada campo a cumplir, según la norma. Archivo incluido en carpeta Canónica.
-│
+|
 ├── encryption/
 │   └── Archivo.asc.pub
 │       → Contiene una clave criptográfica que se utiliza para proteger la privacidad y la autenticidad de la información.
@@ -100,7 +102,15 @@ public_html/
 └── paso-a-paso/
     ├── formulario-cliente.html   # Recopilación de datos del cliente
     └── orden-de-servicio.html    # Detalles del alcance del servicio
-     
+
+
 # Contrato de servicios, condiciones, precios y plazos.
 # Contacto y Asistencia
+
+# Cómo solicitar el servicio
+contacto@csdigitales.cl 
+
+Expresa tu interés y tus datos de contacto
+security@csdigitales.cl
+
 
