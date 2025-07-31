@@ -1,6 +1,5 @@
 # Fomento de la Divulgación Responsable - Implementando la norma del IEFT
-Este repositorio tiene como objetivo ser un modelo base para la implementación de las vias de recepción de reportes de vulnerabilidades enviados por técnicos,  empresas, personas naturales e investigadores en ciberseguridad,  conforme al estándar RFC 9116 del IETF mediante el archivo security.txt, el que podrá ser detectado por medios técnicos por los investigadores de vulnerabilidades.
-
+Este repositorio tiene como objetivo ser un modelo base para la implementación de las vias de recepción de reportes de vulnerabilidades enviados por técnicos,  empresas, personas naturales e investigadores en ciberseguridad,  conforme al estándar RFC 9116 del IETF mediante el archivo security.txt, que podrá ser detectado por medios técnicos.
 
 # Fundamentos del Proyecto y definición
 El IETF (Internet Engineering Task Force) es una organización internacional abierta que desarrolla y publica los estándares técnicos fundamentales de Internet, como los protocolos utilizados por los sitios web (HTTP, HTTPS, DNS, TCP/IP, TLS, entre otros).
