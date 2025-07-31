@@ -74,29 +74,19 @@ Generación de los siguientes archivos y códigos
   
 Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
-# Estructura del Directorio Public_html y ubicación de los archivos
-
-public_html/
-├── .well-known/
-│   └── canonical/
-│       └── security.txt           # Archivo principal requerido por RFC 9116
-├── encryption/
-│   └── pgp-key.asc               # Clave pública PGP para reportes cifrados
-├── politica-coordinada-vulnerabilidades/
-│   └── index.html                # Política de divulgación responsable
-├── agradecimientos/
-│   └── index.html                # Reconocimiento a contribuyentes y colaboradores
-├── trabaja-con-nosotros/
-│   └── index.html                # Información sobre colaboración o vacantes
-└── paso-a-paso/
-    ├── formulario-cliente.html   # Recopilación de datos del cliente
-    ├── Orden de compra Servicio   # Se enviará al cliente vía correo eléctrónico
-
-Formulario para ser informado por el cliente
-https://csdigitales.cl/documentos-cliente/formulario.html
-
 # Cómo solicitar el servicio
+a
+Llenar el formaulario html, al enviar llega directo a finanzas@csdigitales.cl
+https://csdigitales.cl/documentos-cliente/orden-de-servicio.html
+
+b
+Llenar y enviar archivo de Orden de Servicio (Forma 1) a:
 contacto@csdigitales.cl 
+
+c
+Formulario html de operaciones 
+Formulario para ser informado por el cliente (forma 2)
+https://csdigitales.cl/documentos-cliente/formulario.html
 
 Expresa tu interés y tus datos de contacto
 security@csdigitales.cl
