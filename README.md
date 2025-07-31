@@ -74,11 +74,8 @@ Generación de los siguientes archivos y códigos
   
 Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
-
-
-
-
 # Estructura del Directorio Public_html y ubicación de los archivos
+
 public_html/
 ├── .well-known/
 │   └── canonical/
@@ -94,10 +91,6 @@ public_html/
 └── paso-a-paso/
     ├── formulario-cliente.html   # Recopilación de datos del cliente
     └── orden-de-servicio.html    # Detalles del alcance del servicio
-
-
-# Contrato de servicios, condiciones, precios y plazos.
-# Contacto y Asistencia
 
 # Cómo solicitar el servicio
 contacto@csdigitales.cl 
