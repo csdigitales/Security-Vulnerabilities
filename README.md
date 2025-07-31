@@ -74,40 +74,9 @@ Generación de los siguientes archivos y códigos
   
 Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
-# Navegación en el repositorio
-public_html/
-├── .well-known/
-│   └── security.txt
-│       → Archivo que debe ser ubicado en el directorio public_html, carpeta .well-known/
-│         Este archivo y formato normado permite que sea detectado por motores de búsqueda.
-│         Contiene la dirección de cada campo a cumplir, según la norma. Archivo incluido en carpeta Canónica.
-|
-├── encryption/
-│   └── Archivo.asc.pub
-│       → Contiene una clave criptográfica que se utiliza para proteger la privacidad y la autenticidad de la información.
-│         Al copiar el enlace, se abrirá el explorador para salvar el archivo.
-│
-├── policy/
-│   └── index.html
-│       → Archivo ubicado en la carpeta politica-coordinada-vulnerabilidades.
-│         Contiene un código HTML que permite su publicación y visualización.
-│         Al abrirlo en el navegador contiene la política resumida y simple,
-│         fijada por la empresa para coordinar la recepción de reportes de vulnerabilidades.
-│
-├── agradecimientos/
-│   └── index.html
-│       → Archivo ubicado en el directorio public_html, carpeta agradecimientos.
-│         Al desplegar la página incluye reconocimientos a personas que han realizado hallazgos o contribuciones destacadas.
-│
-├── trabaja-con-nosotros/
-│   └── index.html
-│       → Archivo ubicado en el directorio public_html, carpeta trabaja-con-nosotros.
-│         Al desplegar la página incluye información sobre oportunidades laborales,
-│         colaboración externa o programas de Bug Bounty disponibles, considerados por la empresa.
-│
-└── paso-a-paso/
-    └── Instructivo.txt
-        → Instrucciones técnicas para implementar security.txt en un sitio web.
+
+
+
 
 # Estructura del Directorio Public_html y ubicación de los archivos
 public_html/
