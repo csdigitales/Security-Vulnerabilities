@@ -75,20 +75,6 @@ Generación de los siguientes archivos y códigos
 Cs Digitales permite a empresas y organizaciones posicionarse entre aquellas destacadas por sus buenas prácticas en ciberseguridad, a través de la evaluación, desarrollo e implementación del estándar RFC 9116 del IEFT.
 
 # Cómo solicitar el servicio
-a
-Llenar el formaulario html, al enviar llega directo a finanzas@csdigitales.cl
-https://csdigitales.cl/documentos-cliente/orden-de-servicio.html
-
-b
-Llenar y enviar archivo de Orden de Servicio (Forma 1) a:
-finanzas@csdigitales.cl 
-
-c
-Formulario html de operaciones 
-Formulario para ser informado por el cliente (forma 2)
-https://csdigitales.cl/documentos-cliente/formulario.html
-
-Expresa tu interés y tus datos de contacto
-security@csdigitales.cl
+www.csdigitales.cl
 
 
